@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4306
     wikipedia: http://en.wikipedia.org/wiki/Rhoda_Broughton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45178#Red-as-a-Rose-is-SheA-Novel
 gutenberg_issued: '2014-03-20'
 gutenberg_type: Text
 identifiers:
